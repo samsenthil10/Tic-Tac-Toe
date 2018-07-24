@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="imageview0">imageView0</string>
+    <string name="imageview1">imageView1</string>
+    <string name="imageview2">imageView2</string>
+    <string name="imageview3">imageView3</string>
+    <string name="imageview5">imageView5</string>
+    <string name="imageview7">imageView7</string>
+    <string name="imageview8">imageView8</string>
+    <string name="imageview6">imageView6</string>
+    <string name="imageview4">imageView4</string>
+    <string name="textview">TextView</string>
+    <string name="play_again">Play Again !</string>
+</resources>
